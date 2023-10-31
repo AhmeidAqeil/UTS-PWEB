@@ -44,7 +44,7 @@ header{
     
 }
 .header-right a:hover{
-    color: #FFD40D;
+    color: #1791C8;
     transition: all 0.3s;
 }
 .header-right{
@@ -179,18 +179,18 @@ header{
     border-radius: 33px;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 2px rgba(0, 0, 0, 0.08);
 }
-.detail-mobile{
+.detail-project{
     width: 605px;
     margin: 89px 20px 102px 115px;
 }
-.pict-mobile{
+.pict-website{
     width: 178px;
     margin: 65px 88px 65px 20px;
 }
-.detail-mobile h1{
+.detail-project h1{
     color: #FA881C;
 }
-.detail-mobile p{
+.detail-project p{
     color: #6D6D6D;
     text-align: left;
     width: 550px;
